@@ -9,7 +9,7 @@
 from setuptools import find_packages, setup
 
 PACKAGE = 'SecretCheckboxTicketPlugin'
-VERSION = '0.1'
+VERSION = '0.20241211.0'
 
 try:
     import trac
