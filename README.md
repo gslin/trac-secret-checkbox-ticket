@@ -12,7 +12,7 @@ It will create a checkbox, which will forbid `TICKET_VIEW` permission except:
 Installation
 ------------
 
-    pip install git+https://github.com/104corp/trac-secret-checkbox-ticket.git
+    pip install git+https://github.com/gslin/trac-secret-checkbox-ticket.git
 
 Configuration
 -------------
