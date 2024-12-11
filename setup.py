@@ -14,7 +14,7 @@ VERSION = '0.1'
 try:
     import trac
     if trac.__version__ < '1.0':
-        print "%s %s requires Trac >= 1.0" % (PACKAGE, VERSION)
+        print("%s %s requires Trac >= 1.0" % (PACKAGE, VERSION))
         sys.exit(1)
 except ImportError:
     pass
